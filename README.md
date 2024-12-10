@@ -10,7 +10,7 @@ diárias.
 ## Como Executar o Projeto
 1. Clone este repositório:
 ```
-https://github.com/rrafaelc/corrida-maluca.git
+git clone https://github.com/rrafaelc/corrida-maluca.git
 ```
 2. Navegue até o diretório do projeto:
 ```
