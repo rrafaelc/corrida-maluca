@@ -1,6 +1,7 @@
 # Corrida Maluca
-Este projeto é um gerenciador de tarefas simples para ajudar os usuários a organizar suas atividades
-diárias.
+
+Este projeto é baseado na animação "Corrida Maluca", onde diversos personagens competem em corridas
+cheias de aventuras e trapalhadas.
 
 ## Equipe
 - Eric
