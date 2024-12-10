@@ -18,8 +18,9 @@ cheias de aventuras e trapalhadas.
 git clone https://github.com/rrafaelc/corrida-maluca.git
 ```
 2. Navegue até o diretório do projeto:
-```
+```bash
 cd corrida-maluca
+```
 
 
 ## Estrutura do Projeto
