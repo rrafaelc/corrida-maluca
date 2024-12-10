@@ -22,3 +22,14 @@ git clone https://github.com/rrafaelc/corrida-maluca.git
 cd corrida-maluca
 
 
+## Estrutura do Projeto
+
+```plaintext
+├── src
+│   ├── components   # Componentes reutilizáveis
+│   ├── pages        # Páginas do aplicativo
+│   ├── services     # Serviços para consumo de APIs
+│   └── App.js       # Arquivo principal do projeto
+├── package.json     # Gerenciador de dependências
+└── README.md        # Documentação do projeto
+```
